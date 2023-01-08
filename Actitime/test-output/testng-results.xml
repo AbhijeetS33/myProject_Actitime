@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-08T13:58:43 IST" name="Default suite" finished-at="2023-01-08T14:00:57 IST" duration-ms="134729">
+    <groups>
+    </groups>
+    <test started-at="2023-01-08T13:58:43 IST" name="Default test" finished-at="2023-01-08T14:00:57 IST" duration-ms="134729">
+      <class name="com.asb.actitime.users.deleteUser">
+        <test-method is-config="true" signature="OpenBrowser()[pri:0, instance:com.asb.actitime.users.deleteUser@4b0d79fc]" started-at="2023-01-08T13:59:55 IST" name="OpenBrowser" finished-at="2023-01-08T14:00:09 IST" duration-ms="14116" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method is-config="true" signature="Login()[pri:0, instance:com.asb.actitime.users.deleteUser@4b0d79fc]" started-at="2023-01-08T14:00:09 IST" name="Login" finished-at="2023-01-08T14:00:17 IST" duration-ms="7860" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="testDeleteUser()[pri:0, instance:com.asb.actitime.users.deleteUser@4b0d79fc]" started-at="2023-01-08T14:00:17 IST" name="testDeleteUser" finished-at="2023-01-08T14:00:52 IST" duration-ms="35545" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDeleteUser -->
+        <test-method is-config="true" signature="Logout()[pri:0, instance:com.asb.actitime.users.deleteUser@4b0d79fc]" started-at="2023-01-08T14:00:52 IST" name="Logout" finished-at="2023-01-08T14:00:57 IST" duration-ms="4721" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:com.asb.actitime.users.deleteUser@4b0d79fc]" started-at="2023-01-08T14:00:57 IST" name="CloseBrowser" finished-at="2023-01-08T14:00:57 IST" duration-ms="168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- com.asb.actitime.users.deleteUser -->
+      <class name="com.asb.actitime.users.createUser">
+        <test-method is-config="true" signature="OpenBrowser()[pri:0, instance:com.asb.actitime.users.createUser@26e356f0]" started-at="2023-01-08T13:58:43 IST" name="OpenBrowser" finished-at="2023-01-08T13:59:06 IST" duration-ms="23343" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method is-config="true" signature="Login()[pri:0, instance:com.asb.actitime.users.createUser@26e356f0]" started-at="2023-01-08T13:59:06 IST" name="Login" finished-at="2023-01-08T13:59:13 IST" duration-ms="7411" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="testCreateUser()[pri:0, instance:com.asb.actitime.users.createUser@26e356f0]" started-at="2023-01-08T13:59:13 IST" name="testCreateUser" finished-at="2023-01-08T13:59:49 IST" duration-ms="35638" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateUser -->
+        <test-method is-config="true" signature="Logout()[pri:0, instance:com.asb.actitime.users.createUser@26e356f0]" started-at="2023-01-08T13:59:49 IST" name="Logout" finished-at="2023-01-08T13:59:54 IST" duration-ms="5026" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:com.asb.actitime.users.createUser@26e356f0]" started-at="2023-01-08T13:59:54 IST" name="CloseBrowser" finished-at="2023-01-08T13:59:55 IST" duration-ms="724" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- com.asb.actitime.users.createUser -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
