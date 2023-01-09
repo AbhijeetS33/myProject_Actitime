@@ -1,2 +1,2 @@
 # myProject_Actitime
-I have tested demo.actitime.com by using Selenium and Java. I have worked on two modules using testNG framework and Maven build tool. I have used Data Driven framework to get data from Excel file.
+This Test Automation Framework is created using Java + Selenium Web Driver + TestNG. Maven has been used as a build tool and for execution and dependency purpose.Data Driven framework has been used to get data from Excel file. 
